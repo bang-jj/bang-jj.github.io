@@ -1,1 +1,26 @@
-..
+ <!DOCTYPE html>
+   <html lang="zh-Hant">
+   <head>
+       <meta charset="UTF-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>月桃（Beautiful_Galangal）</title>
+       <link rel="stylesheet" href="../css/style.css">
+   </head>
+   <body>
+       <header>
+           <h1>月桃（Beautiful_Galangal）</h1>
+       </header>
+       <main>
+           <section>
+               <h2>基本資料</h2>
+               <ul>
+                   <li><strong>學名：</strong>Alpinia speciosa K. Schum.</li>
+                   <li><strong>科名：</strong>薑科(Zingiberaceae）</li>
+               </ul>
+               <p>可作為觀賞植物，葉子可當粽葉，種子具有燥熱袪寒，除痰截瘧，健脾暖胃，治心腹冷痛、胸腹脹滿、痰濕積滯、嘔吐腹瀉等作用。</p>
+              
+           </section>
+           <a href="index.html">← 回植物區</a>
+       </main>
+   </body>
+   </html>
